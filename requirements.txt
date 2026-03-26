@@ -1,0 +1,10 @@
+langchain-openai
+langgraph
+langgraph-checkpoint-sqlite
+streamlit
+python-dotenv
+yagmail
+twilio
+fastapi
+uvicorn
+websockets
